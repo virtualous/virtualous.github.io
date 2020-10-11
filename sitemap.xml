@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://virtualoustech.com/pensieve/docker-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/markdown-playground</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/wordpress-publish-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/tags/docker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/tags/testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/tags/word-press/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/business-after-covid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/branding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/website-importance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/launching</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/quick-guide-to-web-design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/social-media</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/branding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/business/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/logo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/marketing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/pandemic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/social-media/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/start-up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/web-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/pensieve/tags/website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virtualoustech.com/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virtualoustech.com/blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virtualoustech.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virtualoustech.com/pensieve/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
