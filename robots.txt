@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://virtualoustech.com/sitemap.xml
+Host: https://virtualoustech.com
